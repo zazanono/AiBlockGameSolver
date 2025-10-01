@@ -4,6 +4,9 @@ import itertools
 
 from main_game import EMPTY_CELL, BLOCK_CELL
 
+# Github test
+
+
 # Weights:
 WEIGHT_LINES_CLEARED = 2000     # Primary objective
 WEIGHT_FILLED_CELLS = -10       # Keep the board as empty as possible
